@@ -1,0 +1,1059 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7faa29092ef442c48dee724ab1426e79, type: 3}
+  m_Name: Ludiq.PeekCore.ProjectSettings
+  m_EditorClassIdentifier: 
+  _fullData:
+    _json: 
+    _objectReferences: []
+  _odinData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dictionary
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: legacyProject
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Boolean, mscorlib
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: favoriteMembers
+    - Name: $v
+      Entry: 7
+      Data: 3|System.Collections.Generic.HashSet`1[[Ludiq.PeekCore.Member, Ludiq.PeekCore.Runtime]],
+        System.Core
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: assemblyOptions
+    - Name: $v
+      Entry: 7
+      Data: 4|System.Collections.Generic.List`1[[Ludiq.PeekCore.LooseAssemblyName,
+        Ludiq.PeekCore.Runtime]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 47
+    - Name: 
+      Entry: 7
+      Data: 5|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: Assembly-CSharp-firstpass
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.InputModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ClusterInputModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.PhysicsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Physics2DModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.TerrainPhysicsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.VehiclesModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.AudioModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.AnimationModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.VideoModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.DirectorModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Timeline
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ParticleSystemModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ParticlesLegacyModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.WindModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ClothModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.TilemapModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.SpriteMaskModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 27|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.TerrainModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 28|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ImageConversionModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.TextRenderingModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ClusterRendererModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 31|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ScreenCaptureModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 32|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.AIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.UI
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.UIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.IMGUIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.UIElementsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 37|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.StyleSheetsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 38|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.VR
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 39|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.VRModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 40|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.ARModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 41|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.HoloLens
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 42|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.SpatialTracking
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 43|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.GoogleAudioSpatializer
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 44|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Networking
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 45|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Analytics
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 46|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Advertisements
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 47|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.Purchasing
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 48|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.UnityConnectModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 49|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.UnityAnalyticsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 50|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.GameCenterModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 51|Ludiq.PeekCore.LooseAssemblyName, Ludiq.PeekCore.Runtime
+    - Name: name
+      Entry: 1
+      Data: UnityEngine.AccessibilityModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: typeOptions
+    - Name: $v
+      Entry: 7
+      Data: 52|System.Collections.Generic.List`1[[System.Type, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 51
+    - Name: 
+      Entry: 7
+      Data: 53|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Object, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 54|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Boolean, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 55|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Int32, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 56|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Single, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 57|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.String, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 58|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 59|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 60|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Vector4, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 61|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Quaternion, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 62|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Matrix4x4, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 63|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Rect, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 64|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Bounds, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 65|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Color, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 66|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.AnimationCurve, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 67|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.LayerMask, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 68|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Ray, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 69|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Ray2D, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 70|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.RaycastHit, UnityEngine.PhysicsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 71|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.RaycastHit2D, UnityEngine.Physics2DModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 72|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.ContactPoint, UnityEngine.PhysicsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 73|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.ContactPoint2D, UnityEngine.Physics2DModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 74|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.ParticleCollisionEvent, UnityEngine.ParticleSystemModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 75|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.SceneManagement.Scene, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 76|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Application, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 77|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Resources, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 78|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Mathf, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 79|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Debug, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 80|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Input, UnityEngine.InputLegacyModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 81|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Touch, UnityEngine.InputLegacyModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 82|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Screen, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 83|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Cursor, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 84|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Time, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 85|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Random, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 86|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Physics, UnityEngine.PhysicsModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 87|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Physics2D, UnityEngine.Physics2DModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 88|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.SceneManagement.SceneManager, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 89|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.GUI, UnityEngine.IMGUIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 90|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.GUILayout, UnityEngine.IMGUIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 91|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.GUIUtility, UnityEngine.IMGUIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 92|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Audio.AudioMixerGroup, UnityEngine.AudioModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 93|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.AI.NavMesh, UnityEngine.AIModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 94|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.Gizmos, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 95|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.AnimatorStateInfo, UnityEngine.AnimationModule
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 96|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.EventSystems.BaseEventData, UnityEngine.UI
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 97|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.EventSystems.PointerEventData, UnityEngine.UI
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 98|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.EventSystems.AxisEventData, UnityEngine.UI
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 99|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Collections.IList, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 100|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Collections.IDictionary, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 101|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: Ludiq.PeekCore.AotList, Ludiq.PeekCore.Runtime
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 102|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: Ludiq.PeekCore.AotDictionary, Ludiq.PeekCore.Runtime
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 103|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: System.Exception, mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: projectSetupCompleted
+    - Name: $v
+      Entry: 7
+      Data: 104|System.Boolean, mscorlib
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: savedVersion
+    - Name: $v
+      Entry: 7
+      Data: 105|Ludiq.PeekCore.SemanticVersion, Ludiq.PeekCore.Editor
+    - Name: major
+      Entry: 3
+      Data: 2
+    - Name: minor
+      Entry: 3
+      Data: 0
+    - Name: patch
+      Entry: 3
+      Data: 0
+    - Name: label
+      Entry: 1
+      Data: a
+    - Name: increment
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
